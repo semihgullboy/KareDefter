@@ -1,0 +1,11 @@
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\Kare Defter\Kare Defter\bin\Debug\Kare Defter.exe.config
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\Kare Defter\Kare Defter\bin\Debug\Kare Defter.exe
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\Kare Defter\Kare Defter\bin\Debug\Kare Defter.pdb
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\Kare Defter\Kare Defter\obj\Debug\Kare Defter.csproj.AssemblyReference.cache
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\Kare Defter\Kare Defter\obj\Debug\Kare Defter.csproj.SuggestedBindingRedirects.cache
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\Kare Defter\Kare Defter\obj\Debug\Kare_Defter.Form1.resources
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\Kare Defter\Kare Defter\obj\Debug\Kare_Defter.Properties.Resources.resources
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\Kare Defter\Kare Defter\obj\Debug\Kare Defter.csproj.GenerateResource.cache
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\Kare Defter\Kare Defter\obj\Debug\Kare Defter.csproj.CoreCompileInputs.cache
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\Kare Defter\Kare Defter\obj\Debug\Kare Defter.exe
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\Kare Defter\Kare Defter\obj\Debug\Kare Defter.pdb
