@@ -16,6 +16,6 @@ Oyunun Bitiş Ekranı :
 
 # Oyunun Amacı :
 
-Oluşturduğumuz 9*9 'luk oyun alanından "L" şekilde giderek bütün alanı tamamen bitirmeye çalıştığımız oyun.
+Oluşturduğumuz 9*9 'luk oyun alanından "L" şekilde giderek bütün alanı tamamen bitirmeye çalışmak.
 
 
